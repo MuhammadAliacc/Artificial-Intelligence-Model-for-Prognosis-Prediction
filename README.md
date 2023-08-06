@@ -16,7 +16,7 @@ Before fitting the model, we conducted a series of essential data preprocessing 
 To robustly evaluate the performance of our neural network model, we adopted the k-fold cross-validation method. The dataset was divided into k subsets (folds), and we trained and evaluated the model k times, each time using a different fold as the validation set and the remaining k-1 folds as the training set. This approach helps us to obtain more reliable performance metrics and minimize overfitting.
 
 # Usage
-To reproduce the results or apply the model to other prognosis datasets, clone the GitHub repository and follow the instructions provided in the README file. You can customize the neural network architecture and experiment with different hyperparameters using Optuna to further improve the model's performance.
+To reproduce the results or apply the model to other prognosis datasets, clone the GitHub repository and You can customize the neural network architecture and experiment with different hyperparameters using Optuna to further improve the model's performance.
 
 #
 ### Libraries Used
