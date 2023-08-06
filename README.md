@@ -29,6 +29,6 @@ To reproduce the results or apply the model to other prognosis datasets, clone t
 
 # 
 ### Contributors to the Source Code
-* [Yuganshu Wadhwa](https://github.com/YuganshuWadhwa) : User Interface
-* [Maximilian Brandt](https://github.com/brandeyy) : Classification using Machine Learning
-* [Muhammad Ali](https://github.com/MuhammadAliacc) : Regression using Machine Learning
+* [Yuganshu Wadhwa](https://github.com/YuganshuWadhwa) 
+* [Maximilian Brandt](https://github.com/brandeyy) 
+* [Muhammad Ali](https://github.com/MuhammadAliacc) 
