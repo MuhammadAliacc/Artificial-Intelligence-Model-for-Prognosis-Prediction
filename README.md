@@ -1,5 +1,5 @@
 # Artificial-Intelligence-Model-for-Prognosis-Prediction
-This project presents an in-depth analysis of prognosis data using advanced machine learning techniques. The primary goal of this project is to develop a robust neural network model to predict patient outcomes based on various prognostic factors. The project leverages the power of Python, popular deep learning libraries, and the Optuna library for hyperparameter optimization.
+This project presents an in-depth analysis of prognosis data using Artificial Intellegence. The primary goal of this project is to develop a robust neural network model to predict patient outcomes based on various prognostic factors. The project leverages the power of Python, popular deep learning libraries, and the Optuna library for hyperparameter optimization.
 
 # Motivation
 Accurate prognosis is crucial in healthcare to guide medical decision-making and improve patient outcomes. The motivation behind this project is to develop a predictive model that can aid healthcare professionals in making informed decisions for their patients. By harnessing the potential of neural networks and optimizing their performance with Optuna, we aim to create a reliable tool for prognosis prediction.
